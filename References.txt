@@ -1,0 +1,57 @@
+<---------------------Navbar----------------------->
+https://freepngimg.com/png/37693-pokeball-photos - Pokeball [LOGO]
+https://www.dafont.com/pokemon.font - Pokemon font [LOGO]
+
+<---------------------Home---------------------->
+https://www.deviantart.com/akmarmohamed/art/Galar-and-Paldea-Starters-943201082 - Galar Paldea [HOME - JOIN US]
+https://www.freepik.com/free-vector/blue-white-gradient-abstract-background-set_3462512.htm - Free [HOME - NEWS]
+https://www.deviantart.com/akmarmohamed/art/Mega-Garchomp-942275756 - Garchomp [NEWS 1]
+https://www.deviantart.com/albrt-wlson/art/Gigantamax-Kanto-Starters-839983430 - Gigantamax [NEWS 2]
+https://www.deviantart.com/akmarmohamed/art/Kyogre-941278124 - Kyogre [NEWS 3]
+https://www.deviantart.com/harlequinwaffles/art/Happy-Tanabata-2023-970660004 - Tanabata [NEWS 4]
+https://www.deviantart.com/quirkilicious/art/Pokemon-Generations-164671425 - Tourney [HOME - PRO CIRCUIT INVITATION]
+https://youtu.be/DBpFm8ALBZs?si=aail16uMZB5PAbLX - Video [HOME - VIDEO]
+
+<----------------------News------------------->
+https://overwatch.blizzard.com/en-us/news/ - News & Tournament [NEWS - INSPO]
+https://www.deviantart.com/quirkilicious/art/Starters-646528452 - News Page BG [NEWS - BG]
+
+<---------------------Tournament-------------------->
+https://overwatchworldcup.com/en-us?tab=schedule - Tournament Page [TOURNEY - INSPO]
+https://liquipedia.net/overwatch/Overwatch_World_Cup/2023 - Tournament Page [TOURNEY - INSPO]
+https://bulbapedia.bulbagarden.net/wiki/Tier#Classification - Division Names [TOURNEY - DIVISION]
+https://en.wikipedia.org/wiki/File:Esports_organization_Fnatic_logo.svg - Fnatic logo [TOURNEY - LOGO]
+https://en.wikipedia.org/wiki/File:NaVi_logo.svg - NaVi logo [TOURNEY - LOGO]
+https://en.wikipedia.org/wiki/File:Esports_organization_G2_Esports_logo.svg - G2 logo [TOURNEY - LOGO]
+https://en.m.wikipedia.org/wiki/File:TSM_Logo.svg - TSM logo [TOURNEY - LOGO]
+https://en.m.wikipedia.org/wiki/File:Cloud9_logo.svg - Cloud9 logo [TOURNEY - LOGO]
+https://en.m.wikipedia.org/wiki/File:Faze_Clan.svg - FaZe logo [TOURNEY - LOGO]
+
+<--------------------Pokemon------------------------>
+https://www.pokemon.com/us/pokedex - Pokemon Page Assets & Inspo [POKEMON]
+
+<--------------------Register----------------------->
+https://www.pixiv.net/en/artworks/93087536 - Register Page BG [REGISTER - BG]
+https://steins-gate.fandom.com/wiki/Steins;Gate_Wiki - News & Register page [REGISTER - INSPO]
+https://endfield.gryphline.com/en-us#kv - Footer & Register [REGISTER - INSPO]
+
+<----------------------Website Inspo--------------------->
+https://pokemongolive.com/?hl=en - Mostly
+https://endfield.gryphline.com/en-us#kv - Register & Homepage
+https://wutheringwaves.kurogame.com/en/ - Homepage
+
+<----------------------Icons--------------------->
+https://fonts.google.com/icons
+
+
+Other Assets such as Icons are generated using Figma Plugin:
+https://www.figma.com/community/plugin/791103617505812222/icons8-icons-illustrations-photos
+- Country Flags
+- Social Media Icons
+
+Fonts Used:
+- Poppins
+- Montserrat
+- Inter
+
+Color Pallete: https://www.color-hex.com/color-palette/69514

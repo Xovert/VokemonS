@@ -1,0 +1,93 @@
+Title   : VokemonS
+
+- Website Prototype
+- Company Website
+
+* Website Prototype:
+- 5 Pages
+- Created using Figma
+- Proto === Website
+- Each Page Structure:
+    - Header
+    - Navigation
+    - Content
+    - Footer
+- Considerations:
+    - Color
+    - Layout
+    - Consistency
+
+Website has to be:
++ Attractive
++ Appealing
++ Fully Functional
+
+# Responsive - Accessible using a mobile phone
+
+Usage:
+- 5 kinds of CSS property
+- JavaScript
+- Meta viewport tag
+- Media screen rule [screen below 800px]
+
+<-------------- PAGE REQUIREMENTS (5 PAGES): -------------->
+1. Home Page
+    - Provides Slogan (Encourage player to register for the game) {Register for Beta Now!}
+    - Encouragement to see latest News {Check out the latest news!}
+    - Encouragement to watch VokemonS pro circuit {Watch the circuit!}
+2. News Page
+    - List of news
+    - News Image, News Title, etc.
+3. Register Page
+    - Registration form
+    - Name
+    - Email
+    - Password
+    - Confirm Password
+    - Gender
+    - Terms and Conditions
+    Task:
+    + 5 kind of form components
+    + 5 kinds of validation
+    + Validation using JavaScript
+    + No Regular Expression
+4. Pokemon Page (ref myanimelist)
+    - List of pokemons
+    - Each pokemon to have its own info
+    - Pokemon Image
+    - Pokemon name
+5. Tournament Page
+    - Past match up
+    - Tourney info:
+        + Date
+        + Trainer name
+        + Trainer logo
+        + Trainer's continent
+        + Trainer's division
+        + score
+        + time
+        + past matches
+        + upcoming matches
+
+
+WORK GUIDELINES:
+a. Use principles of HCi. creative but consistent
+b. Prototype must use Figma, use features:
+    - Color
+    - Text Style
+    - Effect
+    - Component
+    - Variant
+    - Interactive component 
+    - Navigation
+c. Usage of Color, Font, Size, Layout (Prototype == Website)
+d. Pages based on template design
+e. External CSS ONLY!! (NO INLINE CSS)
+f. CSS box positioning, not Table
+g. Language (spelling & grammar) -> Bahasa or English (just one)
+h. Website Responsive - Sizes:
+    - Desktops
+    - Tablets
+    - Mobile devices
+i. Organize files with subdirs
+j. References (link from a web, book) that is used.

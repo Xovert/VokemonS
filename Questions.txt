@@ -1,0 +1,13 @@
+List Pertanyaan:
+1. Tabel penilaian itu penjelasan satu satu apa?
+ kalo diminta yg mana:
+ - Web Structure
+ - Design Concept
+ - Completeness
+ - Design Suitability
+ - Compatibility with what?
+ - Consistency (dalam hal apa?)
+ - Features in figma?
+2. What is "use 5 kinds of property in CSS"?
+3. What is meant "use meta viewport tag"?
+4. What is meant "features in figma"?
